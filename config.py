@@ -46,7 +46,7 @@ try:
         for x in (
             os.environ.get(
                 "ADMINS",
-                "1533276197",
+                "1533276197 1446429955",
             ).split()
         )
     ]
